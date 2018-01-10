@@ -6,16 +6,6 @@ body {
   line-height: 1.5;
 }
 
-a {
-  /* color: #009399; */
-  /* text-decoration: underline; */
-  text-decoration: none;
-}
-
-.list_item {
-  text-decoration: none;
-}
-
 .aic {
   align-items: center;
   /* margin-bottom: 50rem; */
